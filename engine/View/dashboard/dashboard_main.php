@@ -5,7 +5,7 @@
         <a class="item">
            Home
         </a>
-        <a class="item">
+        <a href="/dashboard/editor" class="item">
             Editor
         </a>
     </div>
