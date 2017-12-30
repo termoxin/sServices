@@ -1,0 +1,14 @@
+
+*, *:before, *:after {
+	box-sizing:border-box;
+}
+
+.main {
+	padding:15px;
+}
+
+.status {
+	display:none;
+	position: relative;
+	top:20px;
+}

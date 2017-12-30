@@ -1,0 +1,16 @@
+{
+    "name": "user/project",
+    "authors": [
+        {
+            "name": "Rostislav Futornoy",
+            "email": "gamasha2234@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine\\DI"
+        }
+    }
+}
